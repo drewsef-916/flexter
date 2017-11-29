@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Test card number for stripe is 4242 4242 4242 4242
