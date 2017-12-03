@@ -16,7 +16,7 @@
 }
 
 .hero {
-  background: image_url('hero.jpg') no-repeat center center fixed; 
+  background: image_url('flixterbg.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -71,6 +71,8 @@ body {
   padding: 10px;
   padding-left: 10px;
   padding-right: 10px;
+  margin-bottom: 115px;
+  clear: both;
 }
 
 .booyah-box h1, .booyah_box h2 {
@@ -149,6 +151,12 @@ ul .header .fa {
 
 .lessons li p {
   margin: 0;
+}
+
+.careers-icon {
+  position: absolute;
+  bottom: 0px;
+  right: 400px;
 }
 
 
